@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-*.pyc
-.env
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -61,4 +57,3 @@ docs/_build/
 
 # PyBuilder
 target/
->>>>>>> 5afdf9e6c51071a8d26f146b7e7b33ef7356eb85
